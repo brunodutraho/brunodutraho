@@ -1,24 +1,22 @@
-<h2 align="left">Sobre mim:</h2>
+<h1>👨‍💻 Sobre Mim</h1>
+<p>Olá! Sou <strong>Bruno Dutra</strong>, estudante entusiasta de tecnologia, programação e desenvolvimento de software. Estou constantemente me desafiando para transformar ideias em soluções digitais eficazes e inovadoras. Atualmente, foco no aprimoramento de minhas habilidades em <strong>TypeScript</strong> enquanto mergulho no vasto universo do desenvolvimento.</p>
 
-###
+<h2>🎯 Objetivo</h2>
+<p>Meu propósito é aplicar e expandir meus conhecimentos, colaborando em projetos de impacto que estimulem a inovação. Estou em busca de experiências práticas que impulsionem minha carreira no setor de tecnologia e desenvolvimento.</p>
 
-<p align="left">- Desenvolvedor front-en<br>- Cursando análise e desenvolvimento de sistemas<br>- Focado em se tornar DevOps</p>
+<h2>📚 Formação & Habilidades</h2>
+<p><strong>Educação:</strong> Cursando Análise e Desenvolvimento de Sistemas com a ambição de me tornar um desenvolvedor Java especialista.</p>
+<ul>
+  <li>🔹 <strong>Avançado:</strong> HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, Git, React e Next.js.</li>
+  <li>🔹 <strong>Intermediário:</strong> TypeScript, Webpack e Redux.</li>
+  <li>🔹 <strong>Básico:</strong> Node.js, MongoDB, Express.js, Java e Spring Boot.</li>
+</ul>
 
-###
+<h2>🚀 Por Que Me Escolher?</h2>
+<p>Mesmo no início da minha trajetória, minha determinação e capacidade de aprendizado rápido me destacam. Sou detalhista, proativo e motivado a superar desafios. Tenho grande vontade de crescer e contribuir como desenvolvedor.</p>
 
-<h2 align="left">Tecnologias</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
+<h2>🔗 Vamos Conectar?</h2>
+<p>Estou sempre aberto a colaborações que promovam a inovação e gerem um impacto positivo. Vamos criar juntos soluções que fazem a diferença!</p>
 
 ###
 
