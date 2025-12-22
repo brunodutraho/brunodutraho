@@ -2,21 +2,21 @@
 
 <p align="center">
   <b>📊 Analista de Dados Jr apaixonado por transformar dados em insights estratégicos.</b><br>
-  💻 Experiência com Power BI, SQL, Excel e atualmente estudando Python, com foco em evolução para Engenharia de Dados e Ciência de Dados.<br>
-  🌐 Também desenvolvo projetos em HTML, CSS, Sass, JavaScript e TypeScript, mostrando detalhes entre dados e desenvolvimento web.<br>
-  🚀 Buscando sempre aprender, compartilhar projetos e crescer na área de Data Analytics.
+  💻 Experiência prática com Power BI, SQL e Excel. Atualmente estudando Python, com foco em evoluir para Engenharia e Ciência de Dados.<br>
+  🌐 Também desenvolvo projetos em HTML, CSS, Sass, JavaScript e TypeScript, unindo análise de dados com desenvolvimento web.<br>
+  🚀 Sempre em busca de aprender mais, compartilhar projetos e crescer na área de Data Analytics.
 </p>
 
 ---
 
 ## 🏷️ Insígnias
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi"/>
-  <img src="https://img.shields.io/badge/SQL-Database-blue?logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/Python-Studying-blue?logo=python"/>
-  <img src="https://img.shields.io/badge/React-Frontend-blue?logo=react"/>
-  <img src="https://img.shields.io/badge/TypeScript-Frontend-blue?logo=typescript"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Viz-F2C811?logo=powerbi"/>
+  <img src="https://img.shields.io/badge/SQL-Database-336791?logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Excel-Advanced-21A366?logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/Python-Studying-3776AB?logo=python"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-Frontend-3178C6?logo=typescript"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@ Além dos projetos em Data Analytics, também desenvolvo aplicações e páginas
 - **JavaScript (JS)** → Interatividade e manipulação de DOM  
 - **TypeScript (TS)** → Código mais robusto e escalável  
 
-Esses projetos demonstram minha capacidade de integrar análise de dados com interfaces web, criando soluções completas e funcionais.
+Esses projetos mostram minha capacidade de integrar análise de dados com interfaces web, criando soluções completas e funcionais.
 
 ---
 
@@ -54,49 +54,41 @@ Organizei meu plano de estudos de forma cronológica:
 ➡️ O que está abaixo são próximos passos  
 
 ### ✅ Concluído
-- **Tratamento de Dados no Excel via Power Query**  
-  - Automatização de bases de dados  
+- **Excel + Power Query**  
+  - Automatização de bases  
   - Limpeza e padronização  
   - Otimização de tempo em tarefas repetitivas  
-  - Certificado de conclusão emitido pela Udemy  
+  - Certificado Udemy  
 
 - **Power BI + SQL Server + Figma**  
-  - Construção de dashboards com múltiplas fontes (XLS, SQL, CSV, Web)  
-  - Consultas SQL Server, Views, Procedures e tabelas temporárias  
-  - Funções DAX e Linguagem M aplicadas a modelos fato/dimensão  
-  - Criação de interfaces de dashboard com Figma e introdução a UX  
-  - Aplicação correta de gráficos (barras, linhas, boxplot, dispersão, bolhas etc.)  
-  - Conexão entre Power BI e SQL Server  
-  - Certificado de conclusão emitido pela Udemy  
+  - Dashboards com múltiplas fontes (XLS, SQL, CSV, Web)  
+  - Consultas SQL, Views, Procedures  
+  - Funções DAX e Linguagem M  
+  - Interfaces de dashboard com Figma e UX  
+  - Certificado Udemy  
 
 ### 📌 Atualmente estudando
 - **Python 3 do Básico ao Avançado – com Projetos Reais**  
-  - Python básico, intermediário e avançado (POO, programação funcional e processual)  
+  - POO, programação funcional e processual  
   - Interfaces gráficas com PySide6  
   - Automação com Selenium  
-  - Desenvolvimento web e APIs com Django  
-  - Bancos de dados relacionais (SQLite, MySQL, MariaDB)  
+  - APIs com Django  
+  - Bancos de dados relacionais  
   - Testes automatizados e TDD  
-  - Padrões de projeto (Design Patterns GoF)  
-  - Expressões regulares, HTML/CSS e comandos Unix  
+  - Design Patterns GoF  
 
 ### 🎯 Próximos passos
 - **Formação Cientista de Dados – O Curso Completo (2025)**  
-  - Modelos preditivos com Deep Learning, Redes Neurais e Séries Temporais  
-  - Visualização de dados com boas práticas  
-  - Mineração de textos e regressões (linear e logística)  
-  - Estatística avançada: probabilidade, testes de hipóteses, ANOVA, Qui-quadrado  
+  - Modelos preditivos, Deep Learning e Séries Temporais  
+  - Estatística avançada e regressões  
   - SQL e NoSQL (MongoDB)  
-  - Computação em nuvem com AWS  
+  - Computação em nuvem (AWS)  
   - Spark com Databricks  
 
-- **Deep Learning com Python de A a Z – O Curso Completo**  
+- **Deep Learning com Python de A a Z**  
   - Redes neurais artificiais, convolucionais e recorrentes  
-  - Mapas auto-organizáveis, Boltzmann Machines e Autoencoders  
-  - Redes adversariais generativas (GANs)  
-  - Aplicações práticas: previsão de preços de veículos, vendas de jogos, classificação de imagens, previsão de ações  
-  - Detecção de fraudes financeiras e sistemas de recomendação  
-  - Criação de novas imagens com GANs  
+  - GANs e aplicações práticas (previsão, classificação, recomendação)  
+  - Detecção de fraudes e sistemas de recomendação  
 
 ---
 
