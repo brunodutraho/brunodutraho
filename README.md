@@ -1,60 +1,57 @@
-# 👋 Olá, eu sou o Bruno Dutra
+# 👋 Olá! Sou Bruno Dutra
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** (último semestre) em transição para **Análise de Dados**, com foco em **Power BI, SQL Server, Excel Avançado e Python**.
+🎓 *Estudante de Análise e Desenvolvimento de Sistemas | Em transição de carreira para Analista de Dados*
 
-Minha experiência prévia inclui empreendedorismo na minha própria barbearia, onde descobri na prática o valor dos dados para organização e tomada de decisão — o que se tornou a motivação para migrar de carreira.
+Sou **Analista de Dados Jr. apaixonado por transformar dados em insights estratégicos** que apoiam tomada de decisão e crescimento de negócios.
 
----
+💼 Tenho experiência prática com **Power BI, SQL e Excel**, e atualmente estou aprofundando meus conhecimentos em **Python, pandas, automação e engenharia de dados**.
 
-## 🎯 O que busco
-
-Estou trabalhando para conquistar minha **primeira oportunidade como Analista de Dados Jr**, aplicando dados para resolver problemas de negócio e gerar insights que façam sentido no mundo real.  
-No médio prazo, meu objetivo é evoluir para **Engenharia de Dados**.
+🔍 Meu foco é gerar análises claras, dashboards funcionais e pipelines de dados robustos.
 
 ---
 
-## 📊 Projetos em destaque
+## 🚀 Competências Técnicas
 
-Estes são alguns dos principais trabalhos que você pode explorar:
+**📊 Ferramentas & Tecnologias:**  
+Power BI · SQL Server · Excel/Power Query · Python (pandas, numpy) · Jupyter · Git/GitHub
 
-### 🔹 Dashboards em Power BI
-- **Dashboard de People Analytics** – indicadores de RH com insights práticos  
-- **Dashboard de Locação de Veículos** – análise de faturamento e consumo  
-- **Controle de Vendas** – modelagem dimensional e métricas de performance  
-- **Campanhas de Marketing** – integração de campanhas e análise de resultados  
-
-*(Cada um com dados e visualizações que apoiam decisões concretas.)*
-
-### 🔹 BI e Modelagem
-- **BI-SellInSellOut** – scripts SQL e modelagem dimensional para análises de sell-in/sell-out
+**📈 Habilidades Analíticas:**  
+Modelagem de dados · ETL simples · Dashboards interativos · Análise exploratória de dados · Storytelling com dados
 
 ---
 
-## 🛠️ Ferramentas e habilidades
+## 🌟 Projetos em Destaque
 
-Ferramentas que utilizo com frequência:
-- **Power BI** (modelagem, relatórios, dashboards)
-- **SQL Server** (queries, views, procedures, modelagem de dados)
-- **Excel Avançado** e **Power Query**
-- **Python** (análise de dados com foco em scripts e automação)
-- **Visualização e storytelling de dados**
+➡️ *Cada projeto possui um README detalhado explicando o problema, abordagem, ferramentas usadas e resultados obtidos.*  
+(Links diretos abaixo)
 
-Estes conhecimentos se refletem nos projetos disponíveis neste perfil.
-
----
-
-## 📍 Integrando com meu portfólio
-
-Você também pode conhecer mais sobre mim e sobre outros projetos em:
-🌐 **Portfólio:** https://bruno-dutra-portfolio.vercel.app/  
-🔗 **LinkedIn:** https://www.linkedin.com/in/brunodutraho/
+- **Dashboard de Locação de Veículos (Power BI)** – BI com análises de faturamento, consumo por cliente, métricas de desempenho.
+- **Relatório de Vendas (Power BI + SQL)** – Comparativo de metas, análise por vendedor e insights de performance.
+- **Dashboard de RH (Power BI)** – Métricas de turnover, admissões, desligamentos e distribuição por departamento.
+- **BI Sell-In/Sell-Out (SQL + modelagem)** – Scripts e estrutura de Data Warehouse simples para análises de vendas.
 
 ---
 
-## 💡 Um pouco sobre mim
+## 📚 Plano de Estudos — Atualizado
 
-Minha jornada passa pelo Exército, pelo empreendedorismo e agora pelos dados — sempre com foco em aprender na prática e aplicar soluções que tragam impacto.
+**✅ Concluído:**  
+- Excel avançado + Power Query  
+- Power BI + SQL Server + Figma
+
+**📌 Em estudo:**  
+- Python para Análise de Dados
+
+**📈 Próximos passos:**  
+- AWS / Cloud Computing  
+- Python avançado com pandas  
+- Engenharia de Dados (ETL, pipelines, bancos NoSQL)
 
 ---
 
-✨ Se você chegou até aqui, obrigado pela visita! Se um dos projetos te chamou atenção, sinta-se à vontade para explorar e entrar em contato.
+## 📎 Conecte-se Comigo
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/brunodutraho/  
+🔗 **Portfólio:** https://bruno-dutra-portfolio.vercel.app/  
+📫 *Aberto a oportunidades e colaborações!*
+
+✨ “Dados transformados em informação impulsionam decisões melhores.”
