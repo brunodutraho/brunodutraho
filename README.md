@@ -17,7 +17,6 @@ Atualmente, estou aprofundando meus conhecimentos em Python para análise de dad
 - **Excel Avançado** (Power Query, dashboards, automação com VBA)
 - **Python** (pandas, numpy – em desenvolvimento)
 - **Git & GitHub**
-- **Jupyter Notebook**
 
 ### 📈 Habilidades Analíticas
 - Modelagem de dados (fato e dimensão)
